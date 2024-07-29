@@ -38,7 +38,7 @@ As data is now ready for analysis, we loaded it in PowerBI Desktop using "Close 
 ## Sales 2017
   ![saless](https://github.com/user-attachments/assets/8f407440-aa4e-42c4-942e-66e1585f2237)
 #### Key Insights 
-* **Total Sales:** $9.48M, with nearly 4,000 products sold. The most popular categories were GTX, with 854 GTXBasic and 695 GTXPro units sold, and MG, with 737 MG Special units sold.
+* **Total Sales:** $9.48M, with nearly 4,000 products sold. The West region contributes the highest sales at $3,359,174.00, followed closely by the Central $3,163,215.00 and East $2,959,614.00 regions. The most popular categories were GTX, with 854 GTXBasic and 695 GTXPro units sold, and MG, with 737 MG Special units sold.
 * **Quarterly Performance:** Quarter 1 experienced the highest sales increase at 314.58%, driven by February's 85.57% growth, while Quarters 3 and 4 registered the lowest sales percentages, with Quarter 4 showing a significant drop of 44.48% due to a sales decrease of 61.52% in November and 60.18% in December.
 * **Conversion Rates:** 48.2% of potential opportunities converted into won deals, representing 22.46% of engaging opportunities.
   
@@ -70,8 +70,15 @@ As data is now ready for analysis, we loaded it in PowerBI Desktop using "Close 
 ## Customer Segments
   ![Customers](https://github.com/user-attachments/assets/499d3344-715f-492a-8096-ea6c54609823)
 #### Key Insights
-* la la la
-* laa laa laa 
+* **Customer Overview:** The company has a total of 85 customers with an average number of approximately 47 orders per customer, an average lifespan of 380 days, and an average Customer Lifetime Value of $116K.
+* **Customer Segments:** Most customers are categorized as frequent customers (64 out of 85). Loyal and top customers are relatively few, with 17 loyal customers and 4 top customers.
+* **Sector Distribution:** Retail (753) and technology (642) sectors dominate the customer base, followed by medical (549) and software (428).
+* **Business Size:** A substantial portion of customers (71.56%) are large-sized businesses. Medium-sized businesses represent 23.7%, while small-sized businesses account for only 4.74%.
+* **Geographical Distribution:** The American continent is the top contributing continent taking over with 85%, out of which 95% belong to the United States.
+* **Customer Retention:** Customer retention remains relatively stable throughout the year, but there is a significant drop in the final month.
+* Top Customers are located in the United States and Korea.
+* The Central office is the only team working with an African country, Kenya, bringing a revenue of $103,024.
+  
 ## 4. Deployment 
 After completing the report, the dashboard was published in PowerBI Service. 
 

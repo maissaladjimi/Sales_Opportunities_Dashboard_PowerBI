@@ -49,7 +49,7 @@ As data is now ready for analysis, we loaded it in PowerBI Desktop using "Close 
 * **Sales Trends:** For the East and West Region, There is a steady increase in sales opportunities in the first half of the year, peaking around mid-year, followed by a decline in the latter months. The same goes for the Central region, However, there is a noticeable peak in mid-year, indicating a seasonal or promotional boost.
 * **Products:** GTXPro/ GTX Plus Pro are the highest revenue-generating products across all regions. In terms of quantities, GTX Basic seems popular in all regions.
   
-  In the East, GTXPro and MG Advanced are popular, while in the Central region, MG Special and GTX Plus Basic are most bought. Finally, for the West region, GTXPro and MG Special are the most sold. Additionally, GTK500 is only available in the West region, generating almost $380 in revenues.
+  In the East, GTXPro and MG Advanced are popular, while in the Central region, MG Special and GTX Plus Basic are most bought. Finally, for the West region, GTXPro and MG Special are the most sold. Additionally, GTK500 is only available in the West region, generating almost $380,000 in revenues.
 ## Sales Team
   ![teams](https://github.com/user-attachments/assets/7733ea57-37d7-4bab-bed1-c66b7d367aee)
 #### Key Insights 
@@ -84,3 +84,17 @@ After completing the report, the dashboard was published in PowerBI Service.
 
 ---
 ## Recommendations 
+* Focus on enhancing sales and increasing potential opportunities during Q3 and Q4 for all regions, specifically for August, November, and December. Work on customer engagement to maintain retention, targeted promotions and discounts, and seasonal campaigns such as holiday offers for the Christmas/Halloween season and summer season.
+  
+* Since GTXPro/GTX Plus Pro are the highest revenue-generating products across all regions, focus on boosting their availability and visibility and consider packing them with other products and introducing complementary products to drive additional sales.
+  
+* Customize marketing strategies to align with regional preferences, such as promoting MG Advanced more aggressively in the EAST region and MG Special in the CENTRAL region to match clients' needs.
+  
+* Although GTK500 is only available in the West region, it generates significant revenue. Promote it more in the WEST region and, if possible, expand its availability to other regional offices.
+  
+* For customer base expansion, focus on acquiring more customers in key sectors (retail, technology, and medical), attracting large-sized businesses for higher revenue and long-term contracts, and expanding into underrepresented continents such as Africa. Additionally, develop strategies to convert frequent customers into loyal and top clients by enhancing personalized engagement, offering exclusive benefits, and maintaining exceptional customer service.
+  
+* For sales agents like Lajuana, Versie, and Violet, who have high sales volumes but low average purchase values, provide workshops and training on targeting higher-value clients. For those with high average purchase values but low sales volumes, offer support to help increase their order quantities.
+  
+* Regional offices often have high-performing teams that generate most of the revenue and weaker teams with lower performance. The weaker teams should analyze the successful teams’ strategies for closing deals and handling high-value transactions to improve their performance.
+  
